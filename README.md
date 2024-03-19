@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Irfan Ullah
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning advanced React Native
 - 💞️ I’m looking to collaborate on Livewire
 - 📫 reach me through skype iu.khan53
 
